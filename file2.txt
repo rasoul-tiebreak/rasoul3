@@ -1,7 +1,7 @@
 realse 2  some change 1
 
   firstline  some changes dsdsd 
-   
+   sfsf
   change 1 after merge  commit in feature 1 aftermrege
   
   realase 3
